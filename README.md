@@ -63,7 +63,8 @@ This project analyzes restaurant data from Zomato to uncover insights on market 
 
 ## 📊 Dashboard & Visualizations
 ### *Dashboard Preview*
-![Zomato Analysis Dashboard](images/zomato_dashboard.png)
+![Zomato Analysis Dashboard](Zomato_dashboard.png)
+
 - Includes *Year-wise and country-wise filters* for dynamic insights.
 - Visualizes *restaurant distribution, price segmentation, customer engagement, and ratings*.
 
