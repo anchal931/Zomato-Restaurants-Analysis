@@ -5,7 +5,7 @@ This project analyzes restaurant data from Zomato to uncover insights on market 
 
 ## 📊 Data Sources
 - *Excel Dataset* – Contains restaurant details, customer votes, cuisine types, and pricing data.
-- *Analysis Report* – SQL and Excel-based calculations answering key business questions.
+- *Analysis Report* – Excel-based calculations answering key business questions.
 - *Presentation (PPTX)* – Summarized insights, trends, and strategic recommendations.
 
 ## 🔍 Key Analyses and Insights
